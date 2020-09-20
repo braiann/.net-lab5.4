@@ -1,3 +1,4 @@
+C:\Users\braia\source\repos\Lab5.4\obj\Debug\Lab5.4.csproj.CoreCompileInputs.cache
 C:\Users\braia\source\repos\Lab5.4\bin\Lab5.4.dll.config
 C:\Users\braia\source\repos\Lab5.4\bin\Lab5.4.dll
 C:\Users\braia\source\repos\Lab5.4\bin\Lab5.4.pdb
@@ -51,9 +52,10 @@ C:\Users\braia\source\repos\Lab5.4\bin\roslyn\vbc.rsp
 C:\Users\braia\source\repos\Lab5.4\bin\roslyn\VBCSCompiler.exe
 C:\Users\braia\source\repos\Lab5.4\bin\roslyn\VBCSCompiler.exe.config
 C:\Users\braia\source\repos\Lab5.4\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\braia\source\repos\Lab5.4\bin\Negocio.dll
+C:\Users\braia\source\repos\Lab5.4\bin\Negocio.pdb
 C:\Users\braia\source\repos\Lab5.4\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
 C:\Users\braia\source\repos\Lab5.4\obj\Debug\Lab5.4.csprojAssemblyReference.cache
-C:\Users\braia\source\repos\Lab5.4\obj\Debug\Lab5.4.csproj.CoreCompileInputs.cache
 C:\Users\braia\source\repos\Lab5.4\obj\Debug\Lab5.4.csproj.CopyComplete
 C:\Users\braia\source\repos\Lab5.4\obj\Debug\Lab5.4.dll
 C:\Users\braia\source\repos\Lab5.4\obj\Debug\Lab5.4.pdb

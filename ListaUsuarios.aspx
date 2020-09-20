@@ -14,7 +14,7 @@
 <body>
     <form id="form1" runat="server">
         <div>
-            <asp:GridView ID="grdUsuarios" runat="server">
+            <asp:GridView ID="grdUsuarios" runat="server" OnSelectedIndexChanged="grdUsuarios_SelectedIndexChanged">
             </asp:GridView>
         </div>
         <table style="width:100%;">
@@ -125,6 +125,7 @@
                 </td>
             </tr>
         </table>
+        <asp:ObjectDataSource ID="odsUsuarios" runat="server"></asp:ObjectDataSource>
     </form>
 </body>
 </html>
